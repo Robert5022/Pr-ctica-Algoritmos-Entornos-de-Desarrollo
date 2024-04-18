@@ -1,6 +1,6 @@
 package Util;
 
-public abstract class Algortimos {
+public abstract class Algoritmos {
 	
 	/**
 	 * 
